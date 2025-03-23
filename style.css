@@ -26,10 +26,11 @@ li a:hover {
 background-color: #333333;
 }
 #corpo {
+     margin: auto;
     background-color: #ffffff;
     max-width: 900px;
     min-width: 500px;
-    margin: auto;
+ 
 }
 
 

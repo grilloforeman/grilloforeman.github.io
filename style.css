@@ -27,7 +27,7 @@ background-color: #333333;
 }
 #corpo {
      margin: auto;
-    max-heigth: 900px;
+    max-width: 900px;
     min-width: 500px;
   background-color: #ffffff;
 }

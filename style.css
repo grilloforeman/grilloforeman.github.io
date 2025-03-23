@@ -24,6 +24,10 @@ li a:hover {
 body {
     background: #E0E0E0;
 }
+#main_corpo {
+
+    background-color: #E0E0E0;
+}
 .corpo {
     background-color: white;
     max-width: 900px;

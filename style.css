@@ -26,10 +26,10 @@ body {
 }
 .main_corpo {
 
-    background-color: #E0E0E0;
+    background-color: #333333;
 }
 #corpo {
-    background-color: white;
+    background-color: #ffffff;
     max-width: 900px;
     min-width: 500px;
     margin: auto;
